@@ -111,7 +111,7 @@ class _ListaDeComprasState extends State<ListaDeCompras> {
                     cursorColor: primaryColor,
                     controller: _toDoController,
                     decoration: InputDecoration(
-                      labelText: "Adiconar a lista",
+                      labelText: "Adicionar a lista",
                       labelStyle: GoogleFonts.lexendDeca(
                         color: Colors.black,
                         fontWeight: FontWeight.w500,

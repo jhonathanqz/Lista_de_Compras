@@ -1,16 +1,26 @@
-# lista_compras
+<br>
+<center>
+<p align="center">
+  <h1> Lista de Compras 🧾🛒</h1>
+</p></center>
 
-A new Flutter project.
+## 👁‍🗨 Tecnologias
 
-## Getting Started
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Projeto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O projeto Lista de Compras, consiste em um aplicativo para listar os produtos que você precisa lembrar de comprar no Mercado, Padaria, Açougue, etc.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Como executar
+
+- Clone o repositório
+- Abra o terminal no diretório do projeto e execute `flutter pub get`
+- Inicie seu app com `flutter run`
+
+---
+<br>
+Este projeto foi desenvolvido para ajudar o usuário lembrar quais itens ele precisa comprar para quando sair as compras.
