@@ -15,6 +15,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Lista de Compras, consiste em um aplicativo para listar os produtos que você precisa lembrar de comprar no Mercado, Padaria, Açougue, etc.
 
+## 📱 Screenshots
+<div>
+  <img src="https://github.com/jhonathanqz/Lista_de_Compras/blob/master/screenshots/home1.jpg" width="600px" style="max-width:100%;" alt="imagem do projeto">
+</div>
+
 ## ▶️ Como executar
 
 - Clone o repositório
